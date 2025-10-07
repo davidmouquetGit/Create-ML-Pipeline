@@ -1,2 +1,2 @@
 # Create-ML-Pipeline
-Modèle prévision consommation chambre froide
+Modèle prévision consommation presse à balle
