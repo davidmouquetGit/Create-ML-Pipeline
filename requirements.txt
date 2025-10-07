@@ -6,3 +6,6 @@ scikit-learn
 lightgbm==4.6.0
 optuna==4.5.0
 plotly==6.3.1
+onnxmltools
+skl2onnx
+onnxruntime
