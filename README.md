@@ -1,5 +1,5 @@
 # Créer un pipeline de modèle d'apprentissage automatique
-Ce projet illustre la création d'un modèle de prevision en utilisant sklearn et l'algorithme de recherche
+Ce projet illustre la création d'un modèle de prevision en utilisant sklearn(https://scikit-learn.org/stable/) et l'algorithme de recherche
 d'hyperparamètres optuna
 
 # Données utilisées
