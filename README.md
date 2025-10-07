@@ -17,9 +17,9 @@ Les variables sont les suivantes:
 la variable *material* est une variable catégorielle
 
 # Modèle utilisé
-Dans ce démonstrateur, j'utilise la librairie [lightgbm](https://lightgbm.readthedocs.io/en/stable/) qui, par expérience, m'a montrée de bonnes performances pour les modèles de regression
+Dans ce démonstrateur, j'utilise la librairie [lightgbm](https://lightgbm.readthedocs.io/en/stable/) qui, par expérience, m'a montrée de bonnes performances pour les modèles de regression.
 J'ai volontairement omis les statistiques descriptives car les outliers ont été supprimés préalablement
 
 # Enregistrement du modèle
-Je montre comment enregistrer le modèle au format [onnx]https://onnx.ai/ car c'est un format que j'ai souvent utilisé en production
-à noter que les modèles onnx peuvent être visualisés [netron](https://netron.app/)
+Je montre comment enregistrer le modèle au format [onnx]https://onnx.ai/ car c'est un format que j'ai souvent utilisé en production.
+A noter que les modèles onnx peuvent être visualisés [netron](https://netron.app/)
