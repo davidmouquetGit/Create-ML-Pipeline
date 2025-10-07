@@ -19,6 +19,7 @@ la variable *material* est une variable catégorielle
 
 # Modèle utilisé
 Dans ce démonstrateur, j'utilise la librairie lightgmb qui, par expérience, m'a montrée de bonnes performances pour les modèles de regression
+J'ai volontairement omis les statistiques descriptives car les outliers ont été supprimés préalablement
 
 # Enregistrement du modèle
 Je montre comment enregistrer le modèle au format onnx car c'est un format que j'ai souvent utilisé en production
