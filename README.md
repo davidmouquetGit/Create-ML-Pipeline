@@ -1,6 +1,5 @@
 # Créer un pipeline de modèle d'apprentissage automatique
-Ce projet illustre la création d'un modèle de prevision en utilisant [sklearn](https://scikit-learn.org/stable/) et l'algorithme de recherche
-d'hyperparamètres optuna
+Ce projet illustre la création d'un modèle de prevision en utilisant [sklearn](https://scikit-learn.org/stable/) et l'algorithme de recherche d'hyperparamètres [optuna](https://optuna.org/)
 
 # Données utilisées
 Les données utilisées pour ce démonstrateur ont été générées par simulation numérique.
@@ -18,8 +17,9 @@ Les variables sont les suivantes:
 la variable *material* est une variable catégorielle
 
 # Modèle utilisé
-Dans ce démonstrateur, j'utilise la librairie lightgmb qui, par expérience, m'a montrée de bonnes performances pour les modèles de regression
+Dans ce démonstrateur, j'utilise la librairie [lightgbm](https://lightgbm.readthedocs.io/en/stable/) qui, par expérience, m'a montrée de bonnes performances pour les modèles de regression
 J'ai volontairement omis les statistiques descriptives car les outliers ont été supprimés préalablement
 
 # Enregistrement du modèle
-Je montre comment enregistrer le modèle au format onnx car c'est un format que j'ai souvent utilisé en production
+Je montre comment enregistrer le modèle au format [onnx]https://onnx.ai/ car c'est un format que j'ai souvent utilisé en production
+à noter que les modèles onnx peuvent être visualisés [netron](https://netron.app/)
